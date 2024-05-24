@@ -1,11 +1,11 @@
 import { Text, View,SafeAreaView, ScrollView, useColorScheme,StyleSheet } from "react-native";
-import Header from '@/components/Header';
-import Crousal from "@/components/Crousal";
-import InformationPage from "@/components/InformationPage";
-import Review from "@/components/Review";
-import CancellationPolicy from "@/components/CancelationPolicy";
-import About from "@/components/About";
-import Footer from "@/components/Footer";
+import Header from '@/components/Header/Header';
+import Crousal from "@/components/Crousal/Crousal";
+import InformationPage from "@/components/InformationPage/InformationPage";
+import Review from "@/components/Review/Review";
+import CancellationPolicy from "@/components/CancelationPolicy/CancelationPolicy";
+import About from "@/components/About/About";
+import Footer from "@/components/Footer/Footer";
 import Toast, { BaseToast, ErrorToast } from 'react-native-toast-message';
 import { toastConfig } from "@/constants/ToastConfig";
 
