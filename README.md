@@ -1,27 +1,13 @@
 # Gym trainer react native ui app 
 
 
-## Folder Structure
-
-- `app/`
- - `index.tsx`
-- `components/`
- - `about/`
- - `cancelationPolicy/`
- - `Footer/`
- - `Header/`
- - `Icon/`
- - `Image/`
- - `InformationPage/`
- - `Review/`
-
 ## Getting Started
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/HARSHV10/Gym_trainer__native_ui
-
+```
 
 2. Install dependencies
 
