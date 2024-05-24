@@ -61,10 +61,6 @@
    
    <img src="ScreenShots/Fixed_Header_NavBar.jpeg" alt="Example Image" width="500" >
 
-7. Toast Message
-
-   <img src="ScreenShots/ToastMessage.jpeg" alt="Example Image" width="500" >
-
 
 ## Technologies Used
 
