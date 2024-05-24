@@ -34,5 +34,4 @@
    ```
 
 ## Screenshots
-
-![Complete UI Scene](ScreenShots/Complete_UI_Scene.jpeg)
+<img src="/images/example.png" alt="Example Image" width="200">
