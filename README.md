@@ -1,33 +1,55 @@
 # Gym trainer react native ui app 
-## Get started
 
-1. Install dependencies
+
+## Folder Structure
+
+- `app/`
+ - `index.tsx`
+- `components/`
+ - `about/`
+ - `cancelationPolicy/`
+ - `Footer/`
+ - `Header/`
+ - `Icon/`
+ - `Image/`
+ - `InformationPage/`
+ - `Review/`
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/HARSHV10/Gym_trainer__native_ui
+
+
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
     npx start
    ```
-3. Run the app on android
+4. Run the app on android
 
    ```bash
     npx react-native run-android
    ```
-4. Run the app on ios
+5. Run the app on ios
 
    ```bash
     npx react-native run-ios
    ```
-5. Run the app on web
+6. Run the app on web
 
    ```bash
     npx react-native run-web
    ```
-6. Run the app on windows
+7. Run the app on windows
 
    ```bash
     npx react-native run-windows
@@ -70,5 +92,5 @@ The following technologies were used in the development of this app:
 
 ## Contact
 
-- Your Name :  amv.harsh@gmail.com
-- Project Link :  https://github.com/HARSHV10/GymTrainerReactNativeUIApp
+- Your Name :amv.harsh@gmail.com
+- Project Link : https://github.com/HARSHV10/GymTrainerReactNativeUIApp
