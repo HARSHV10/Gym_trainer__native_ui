@@ -34,4 +34,4 @@
    ```
 
 ## Screenshots
-<img src="/images/example.png" alt="Example Image" width="200">
+<img src="ScreenShots/Complete_UI_Scene.jpeg" alt="Example Image" width="200">
