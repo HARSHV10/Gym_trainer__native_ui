@@ -5,9 +5,9 @@
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/HARSHV10/Gym_trainer__native_ui
-```
+   ```bash
+   git clone https://github.com/HARSHV10/Gym_trainer__native_ui
+   ```
 
 2. Install dependencies
 
