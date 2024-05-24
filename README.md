@@ -70,5 +70,5 @@ The following technologies were used in the development of this app:
 
 ## Contact
 
-- Your Name : " amv.harsh@gmail.com"
-- Project Link : " https://github.com/HARSHV10/GymTrainerReactNativeUIApp"
+- Your Name :  amv.harsh@gmail.com
+- Project Link :  https://github.com/HARSHV10/GymTrainerReactNativeUIApp
