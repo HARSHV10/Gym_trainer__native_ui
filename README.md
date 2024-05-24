@@ -62,14 +62,10 @@
 
 The following technologies were used in the development of this app:
 
-- **React Native**: A framework for building native apps using React.
-- **React Navigation**: Routing and navigation for React Native apps.
-- **Redux**: A predictable state container for JavaScript apps.
-- **Redux Thunk**: Middleware that allows you to write action creators that return a function instead of an action.
-- **Axios**: Promise-based HTTP client for the browser and Node.js.
-- **React Native Paper**: A high-quality, standard-compliant Material Design library for React Native.
-- **React Native Vector Icons**: Customizable icons for React Native with support for NavBar/TabBar/Toolbar.
-- **Firebase**: Backend-as-a-service for authentication, real-time database, storage, and more.
-- **Styled Components**: Visual primitives for the component age.
+- **React Native**
+- **HTML**
+- **CSS**
+- **JS**
+
 
 
